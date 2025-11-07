@@ -13,7 +13,7 @@ jobs:
           token: ${{ secrets.ACCESS_TOKEN }}
 
       # 1 渲染到 _output 目录
-      - uses: jiugulixiaoniu/github-profile-3d-contrib@main
+      - uses: yoshi389111/github-profile-3d-contrib@main
         env:
           GITHUB_TOKEN: ${{ secrets.ACCESS_TOKEN }}
         with:
