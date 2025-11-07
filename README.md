@@ -9,6 +9,8 @@
 
 ![jiugulixiaoniu's Stats](https://github-readme-stats.vercel.app/api?username=jiugulixiaoniu&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 ![jiugulixiaoniu's Streak](https://github-readme-streak-stats.herokuapp.com/?user=jiugulixiaoniu&theme=vue-dark&hide_border=true)
+![jiugulixiaoniu's 3D Contribution Graph](https://github-contribution-graph.ez4o.com/?username=jiugulixiaoniu&last_n_days=365)
+![jiugulixiaoniu's's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jiugulixiaoniu&theme=github-compact)
 
 <details>
   <summary>更多</summary>
