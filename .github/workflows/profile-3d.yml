@@ -3,7 +3,7 @@ on:
   schedule: [{cron: "0 16 * * *"}]
   workflow_dispatch:
 permissions:
-  contents: write                  # 允许写仓库
+  contents: write
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -11,12 +11,19 @@ jobs:
       - uses: actions/checkout@v4
         with:
           token: ${{ secrets.ACCESS_TOKEN }}
-          ref: main                # 明确写在 main 分支
 
-      - uses: yoshi389111/github-profile-3d-contrib@main
+      # 1 渲染到 _output 目录
+      - uses: jiugulixiaoniu/github-profile-3d-contrib@main
         env:
           GITHUB_TOKEN: ${{ secrets.ACCESS_TOKEN }}
-          USERNAME: jiugulixiaoniu
-          SVG_THEME: night-green
-          BRANCH: main             # ← 生成后直接放到 main
-          FOLDER: profile-3d-contrib
+        with:
+          user: jiugulixiaoniu           # 你的用户名
+          theme: night-green              # 要的主题
+          output_dir: ./profile-3d-contrib
+
+      # 2 如果有文件变化就提交
+      - run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile-3d-contrib
+          git diff --staged --quiet || (git commit -m "chore: generate 3D contrib" && git push)
