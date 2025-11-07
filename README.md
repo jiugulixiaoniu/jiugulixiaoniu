@@ -1,16 +1,47 @@
-## Hi there 👋
+## 你好 
 
-<!--
-**jiugulixiaoniu/jiugulixiaoniu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+我是 Jiugulixiaoniu，一个福建省南平市在读初中生。我很爱写一些小东西
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 总览
+
+![](profile-3d-contrib/profile-night-green.svg)
+
+![jiugulixiaoniu's Stats](https://github-readme-stats.vercel.app/api?username=jiugulixiaoniu&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![jiugulixiaoniu's Streak](https://github-readme-streak-stats.herokuapp.com/?user=jiugulixiaoniu&theme=vue-dark&hide_border=true)
+
+<details>
+  <summary>更多</summary>
+  
+   ## 📺 我的B站信息
+  
+  **昵称**: [旧故里小牛](https://space.bilibili.com/3546617818909179)  
+  **简介**: 初中生，喜欢编程和游戏  
+  **粉丝**: 71位  
+  
+  **[🚀 前往我的B站主页 →](https://space.bilibili.com/3546617818909179)**
+</details>
+
+## 项目
+
+我创建的/我主要参与的项目：
+
+- **[Class-Website-V2.5 ![Stars](https://img.shields.io/github/stars/Class-Website-V2.5/Class-Website-V2.5?label=Stars)](https://github.com/Class-Website-V2.5/Class-Website-V2.5/)**
+  <br/>
+ 
+
+## 开发
+
+- 我主要使用的编程语言：<br/>
+  ![Static Badge](https://img.shields.io/badge/C-%23339933?style=flat-square&logo=.NET&logoColor=white)
+  ![Static Badge](https://img.shields.io/badge/JavaScript-%20?style=flat-square&logo=typescript&logoColor=white&color=3178C6)
+  ![Static Badge](https://img.shields.io/badge/Python-%233776AB?style=flat-square&logo=Python&logoColor=white)
+  ![Static Badge](https://img.shields.io/badge/Html-%233776AB?style=flat-square&logo=Python&logoColor=white)
+- 我主要使用的框架：<br/>
+  ![Static Badge](https://img.shields.io/badge/Vue.js-%234FC08D?style=flat-square&logo=vue.js&logoColor=white)
+- 我主要使用的开发工具：<br/>
+  ![Static Badge](https://img.shields.io/badge/Visual_Studio-%23a478db?style=flat-square&logoColor=white)
+  ![Static Badge](https://img.shields.io/badge/Visual_Studio_Code-%232F80ED?style=flat-square&logo=vscodium&logoColor=white)
+  ![Static Badge](https://img.shields.io/badge/Pycharm-%23fe9c0e?style=flat-square&logo=rider)
+  ![Static Badge](https://img.shields.io/badge/Clion-%23df2477?style=flat-square&logo=resharper)
+  ![Static Badge](https://img.shields.io/badge/WebStorm-%230068fd?style=flat-square&logo=webstorm&logoColor=white)
