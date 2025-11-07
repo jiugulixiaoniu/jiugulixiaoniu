@@ -2,18 +2,21 @@ name: 3D-contrib-svg
 on:
   schedule: [{cron: "0 16 * * *"}]
   workflow_dispatch:
+permissions:
+  contents: write                  # 允许写仓库
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
         with:
-          token: ${{ secrets.ACCESS_TOKEN }} 
+          token: ${{ secrets.ACCESS_TOKEN }}
+          ref: main                # 明确写在 main 分支
 
       - uses: yoshi389111/github-profile-3d-contrib@main
         env:
           GITHUB_TOKEN: ${{ secrets.ACCESS_TOKEN }}
-          USERNAME: jiugulixiaoniu     
-          SVG_THEME: night-green   
-          BRANCH: main
+          USERNAME: jiugulixiaoniu
+          SVG_THEME: night-green
+          BRANCH: main             # ← 生成后直接放到 main
           FOLDER: profile-3d-contrib
