@@ -27,7 +27,7 @@
 
 我创建的/我主要参与的项目：
 
-- **[Class-Website-V2.5 ![Stars](https://img.shields.io/github/stars/Class-Website-V2.5/Class-Website-V2.5?label=Stars)](https://github.com/Class-Website-V2.5/Class-Website-V2.5/)**
+- **[Class-Website-V2.5 ![Stars](https://img.shields.io/github/stars/jiugulixiaoniu/Class-Website-V2.5?label=Stars)](https://github.com/jiugulixiaoniu/Class-Website-V2.5)**
   <br/>
  
 
