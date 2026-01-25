@@ -29,7 +29,8 @@
 
 - **[Class-Website-V2.5 ![Stars](https://img.shields.io/github/stars/jiugulixiaoniu/Class-Website-V2.5?label=Stars)](https://github.com/jiugulixiaoniu/Class-Website-V2.5)**
   <br/>
- 
+- **[ClassScreenLock ![Stars](https://img.shields.io/github/stars/jiugulixiaoniu/ClassScreenLock?label=Stars)](https://github.com/jiugulixiaoniu/ClassScreenLock)**
+  <br/>
 
 ## 开发
 
