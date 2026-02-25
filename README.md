@@ -7,7 +7,7 @@
 
 ![](profile-3d-contrib/profile-night-green.svg)
 
-![jiugulixiaoniu's Stats](https://github-readme-stats.vercel.app/api?username=jiugulixiaoniu&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+[![jiugulixiaoniu's GitHub stats](https://beautiful-github-homepage.vercel.app/api?username=jiugulixiaoniu&show_icons=true&theme=transparent)]
 ![jiugulixiaoniu's Streak](https://github-readme-streak-stats.herokuapp.com/?user=jiugulixiaoniu&theme=vue-dark&hide_border=true)
 ![jiugulixiaoniu's's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jiugulixiaoniu&theme=github-compact)
 
