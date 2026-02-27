@@ -7,7 +7,7 @@
 
 ![](profile-3d-contrib/profile-night-green.svg)
 
-[![jiugulixiaoniu's GitHub stats](https://beautiful-github-homepage.vercel.app/api?username=jiugulixiaoniu&show_icons=true&theme=transparent)]
+![jiugulixiaoniu's GitHub stats](https://beautiful-github-homepage.vercel.app/api?username=jiugulixiaoniu&show_icons=true&theme=transparent)]
 ![jiugulixiaoniu's Streak](https://github-readme-streak-stats.herokuapp.com/?user=jiugulixiaoniu&theme=vue-dark&hide_border=true)
 ![jiugulixiaoniu's's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jiugulixiaoniu&theme=github-compact)
 
@@ -17,8 +17,6 @@
    ## 📺 我的B站信息
   
   **昵称**: [旧故里小牛](https://space.bilibili.com/3546617818909179)  
-  **简介**: 初中生，喜欢编程和游戏  
-  **粉丝**: 136位  
   
   **[🚀 前往我的B站主页 →](https://space.bilibili.com/3546617818909179)**
 </details>
